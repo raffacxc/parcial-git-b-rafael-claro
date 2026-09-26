@@ -1,0 +1,10 @@
+1. git config --global user.name
+2. git conifg --global user.email
+3. mkdir
+4. cd 
+5. touch
+6. git init 
+7. git commit -m 
+8. git add .
+9. git branch
+10. git push -u origin main 

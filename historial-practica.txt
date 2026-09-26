@@ -1,0 +1,5 @@
+1. Se crearon las configuraciones globales
+2. Se crea el directorio principal y cada uno de los archivos
+3. Se inicializa el repositorio
+4. Se hace el commit 
+5. Se sube al repositorio en Github

@@ -1,0 +1,3 @@
+Git: Es una terminal en la que se pueden usar comandos para ejecutar acciones mediante texto
+Github: Es una plataforma para crear repositorios de forma remota para almacenar proyectos 
+Commit:

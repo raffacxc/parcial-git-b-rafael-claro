@@ -1,0 +1,6 @@
+1. B.Es una terminal/interprete de comandos que permite ejecutar intrucciones mediante texto 
+2. A.Porque permite identificar cambios penidientes,archivos sin seguimiento y el estado del area de preparacion
+3. B.Una copia alojada en la nube donde puede publicarse y compartirse el proyecto
+4. A.Que el historial del proyecto sea dificil de revisar y recuperar
+5. B.Relacionar el repositorio local con un remoto y enviar los commits al repositorio en linea
+ 
